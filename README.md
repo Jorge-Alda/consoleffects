@@ -1,5 +1,7 @@
 # consoleffects
 
+[![pytest](https://github.com/Jorge-Alda/consoleffects/actions/workflows/pytest.yml/badge.svg)](https://github.com/Jorge-Alda/consoleffects/actions/workflows/pytest.yml) [![codecov](https://codecov.io/gh/Jorge-Alda/consoleffects/branch/master/graph/badge.svg?token=GUHPALTR4O)](https://codecov.io/gh/Jorge-Alda/consoleffects)
+
 Add effects like colors, bold, italics, blink,... to the text displayed by the console.
 
 Powered by ANSI Escape sequences.
